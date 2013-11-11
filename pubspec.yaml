@@ -1,0 +1,8 @@
+name: devfest_dart_mvc
+version: 0.0.1
+author: Konstantinos Grevenitis
+description: A sample command-line application for Thessaloniki's Devefest 2013
+dependencies:
+  browser: any
+dev_dependencies:
+  http_server: any
